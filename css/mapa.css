@@ -1,0 +1,14 @@
+body{
+	background-color: #FFEA85;
+}
+#titulo{
+	font-family:font-family: 'Staatliches', cursive;
+}
+#mapa{
+	display: block;
+	margin: 0 auto;
+}
+.row{
+	width: 50%;
+	margin: 1em auto !important;
+}
